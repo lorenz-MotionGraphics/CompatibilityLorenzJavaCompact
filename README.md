@@ -1,0 +1,2 @@
+# CompatibilityLorenzJavaCompact
+java 1
